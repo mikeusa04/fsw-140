@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(167, 150, 150);
+    text-align: center;
+  }
+  
+  #navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(53, 75, 99);
+    padding: 20px;
+    font-size: 20px;
+    text-shadow: 1px 1px 1px black;
+  }
+  
+  #products {
+    margin-bottom: 50px;
+  }
+  
+  #footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  ol { 
+    list-style-type: none;
+    padding: 5px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 13px;
+    background-color: rgb(53, 75, 99);
+  }
+  
+  li {
+    background-color: rgb(53, 75, 99);
+    color: white;
+    padding: 4.5px;
+  }
+  
+  button {
+    font-size: 18px;
+    margin: 5px;
+    border-radius: 6px;
+  }
+  
+  select {
+    font-size: 18px;
+    border-radius: 6px;
+  }
+  
+  .displayarea {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(167, 150, 150);
+  }
+  
+  h1 {
+    color: rgb(87, 87, 119);
+    text-shadow: 2px 2px 2px lavender;
+  }
+  
+  label {
+    font-size: 18px;
+    font-weight: 900;
+    color: rgb(87, 87, 119);
+    text-shadow: 2px 2px 2px lavender;
+  }
